@@ -7,7 +7,7 @@
 
 - 📫 How to reach me? **[vaishali.srivastava1204@gmail.com].**
 
-- 📄 Know about my experiences [PDF](https://drive.google.com/file/d/16TIvEePumOsY_nXeUqaiaJ2nYxWgT2hY/view?usp=drive_link)
+- 📄 Know about my experiences [PDF](https://drive.google.com/file/d/1SFyworzYAA0DN7tBPbkCZBufEMD0Pxbn/view?usp=drive_link)
 
 ### My Skill Set:
 |Languages|Tools|
